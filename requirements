@@ -1,5 +1,0 @@
-collections:
-  # Install a collection from Ansible Galaxy.
-  - name: ansible-for-nsxt
-    version: 3.2.0
-    source: https://github.com/vmware/ansible-for-nsxt
